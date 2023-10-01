@@ -28,7 +28,7 @@
 
 * ☕ Interest: Music, Coffee, Coding and You. <br>
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Eating, Playing Music, Anime, Manga, and Instagram. <br><br>
 
 <h2></h2>
 
