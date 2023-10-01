@@ -2,7 +2,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=62E51C&vCenter=true&width=1000&lines=Hey!+I'm+Yuzar+and+Welcome+to+my+Profile" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=62E51C&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yuzar+and+Welcome+to+my+Profile!" alt="Hey, I'm Yuzar and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
