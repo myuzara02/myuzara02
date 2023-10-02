@@ -5,6 +5,8 @@
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
+
+
 <div align="center"> 
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/myuzara02/count.svg" />
