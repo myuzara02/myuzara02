@@ -6,7 +6,10 @@
 </div>
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 <div align="center"> 
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/myuzara02/count.svg" />
